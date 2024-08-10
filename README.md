@@ -7,7 +7,7 @@
 [Full Write Up](https://www.tylerjaygustafson.com/nfl-offense-analysis)
 
 
-Tyler Gustafson's Notebook
+#### ``Contents``
 - Section 1: Santity Checking
 - Section 2: Initial Exploratory Analysis
 - Section 3: Impact of General Factors on Offense
